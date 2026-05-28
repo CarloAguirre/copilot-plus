@@ -1,0 +1,31 @@
+{
+  "alias": "copilot-plus-2",
+  "agentKey": "9c00e1b2dd38a4fca062fcf0a5f8bba2450983567905223238380b4132d44c03",
+  "activeWorkspaceId": "9cc6e212-3e78-451d-829d-b2b5f68eb354",
+  "activeRepo": "CarloAguirre/copilot-plus",
+  "source": "postgres-agent-session",
+  "mirroredAt": "2026-05-28T14:29:40.275Z",
+  "context": {
+    "workspaceId": "9cc6e212-3e78-451d-829d-b2b5f68eb354",
+    "repoFullName": "CarloAguirre/copilot-plus",
+    "owner": "CarloAguirre",
+    "repo": "copilot-plus",
+    "branch": "main",
+    "activePath": "ATTRIBUTIONS.md",
+    "updatedAt": "2026-05-28T12:04:43.624Z",
+    "dirtyFiles": [],
+    "tabs": [
+      {
+        "path": "ATTRIBUTIONS.md",
+        "language": "md",
+        "sha": "5df5c40c9aae0365002db6ac826623f2febb7d26",
+        "dirty": false,
+        "isActive": true,
+        "cursorLine": null,
+        "cursorColumn": null,
+        "selectionStart": null,
+        "selectionEnd": null
+      }
+    ]
+  }
+}
