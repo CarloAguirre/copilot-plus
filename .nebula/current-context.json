@@ -4,16 +4,39 @@
   "activeWorkspaceId": "c3cc4332-f35e-4541-9ab5-2a75ef6ff213",
   "activeRepo": "CarloAguirre/copilot-plus",
   "source": "postgres-agent-session",
-  "mirroredAt": "2026-05-28T14:29:41.359Z",
+  "mirroredAt": "2026-05-28T15:31:47.058Z",
   "context": {
     "workspaceId": "c3cc4332-f35e-4541-9ab5-2a75ef6ff213",
     "repoFullName": "CarloAguirre/copilot-plus",
     "owner": "CarloAguirre",
     "repo": "copilot-plus",
     "branch": "main",
-    "activePath": null,
-    "updatedAt": "2026-05-28T14:29:40.289Z",
+    "activePath": "src/main.tsx",
+    "updatedAt": "2026-05-28T14:59:39.315Z",
     "dirtyFiles": [],
-    "tabs": []
+    "tabs": [
+      {
+        "path": "ATTRIBUTIONS.md",
+        "language": "md",
+        "sha": "5df5c40c9aae0365002db6ac826623f2febb7d26",
+        "dirty": false,
+        "isActive": false,
+        "cursorLine": null,
+        "cursorColumn": null,
+        "selectionStart": null,
+        "selectionEnd": null
+      },
+      {
+        "path": "src/main.tsx",
+        "language": "tsx",
+        "sha": "830f18695c6e872c0264ad83d6b288b0b69efd5a",
+        "dirty": false,
+        "isActive": true,
+        "cursorLine": null,
+        "cursorColumn": null,
+        "selectionStart": null,
+        "selectionEnd": null
+      }
+    ]
   }
 }
